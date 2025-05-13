@@ -2361,7 +2361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2201TCE_C25879.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 45.72 140.97 0)
 			(effects
 				(font
@@ -2464,7 +2464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2402181501_XINGLIGHT-XL-1608UVC-04_C7371898.pdf"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C7496820"
 			(at 38.1 140.97 0)
 			(effects
 				(font
@@ -2482,7 +2482,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7371898"
+		(property "LCSC" "C7496820"
 			(at 38.1 140.97 0)
 			(effects
 				(font
@@ -2609,7 +2609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Wcon-313010SG0BK00T1/C783829"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hanxia-HX_JN1_27_2x5P_ZZ_H49/C42372547"
 			(at 31.75 73.66 90)
 			(effects
 				(font
@@ -2627,7 +2627,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C783829"
+		(property "LCSC" "C42372547"
 			(at 40.64 41.91 0)
 			(effects
 				(font
@@ -2775,7 +2775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2201TCE_C25879.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 59.69 34.29 0)
 			(effects
 				(font
@@ -2944,7 +2944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2201TCE_C25879.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 59.69 59.69 0)
 			(effects
 				(font
@@ -3308,7 +3308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Pin-Headers_Yxcon-P125-1207A0BR138A1_C19190502.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Xfcn-PZ254R_1214P/C492435"
 			(at 45.72 83.82 0)
 			(effects
 				(font
@@ -3326,7 +3326,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C19190502"
+		(property "LCSC" "C492435"
 			(at 45.72 83.82 0)
 			(effects
 				(font
@@ -3421,7 +3421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811151533_JST-Sales-America-SM04B-SRSS-TB-LF-SN_C160404.pdf"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/HongCheng-HCZZ00324/C7433425"
 			(at 41.91 113.03 0)
 			(effects
 				(font
@@ -3439,7 +3439,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C160404"
+		(property "LCSC" "C7433425"
 			(at 41.91 113.03 0)
 			(effects
 				(font

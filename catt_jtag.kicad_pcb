@@ -172,7 +172,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2201TCE_C25879.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -252,7 +252,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/9a418492-d6ec-4d6e-81a7-210e128a35e4")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "catt_jtag.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -426,7 +426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2201TCE_C25879.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -506,7 +506,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/0d6b430d-8e42-4873-bdd3-5a221c5e6a33")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "catt_jtag.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -680,7 +680,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2402181501_XINGLIGHT-XL-1608UVC-04_C7371898.pdf"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C7496820"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -706,7 +706,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C7371898"
+		(property "LCSC" "C7496820"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -721,7 +721,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/177378fa-ceda-447d-b3e8-96c9fa4a1439")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "catt_jtag.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -918,7 +918,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811151533_JST-Sales-America-SM04B-SRSS-TB-LF-SN_C160404.pdf"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/HongCheng-HCZZ00324/C7433425"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -942,7 +942,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C160404"
+		(property "LCSC" "C7433425"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -996,7 +996,7 @@
 		)
 		(property ki_fp_filters "*1X04_1MM_RA* *1X04_1MM_RA_STRESSRELIEF*")
 		(path "/c5b4b1ea-b665-4aba-870a-684a74314614")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "catt_jtag.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1160,7 +1160,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Pin-Headers_Yxcon-P125-1207A0BR138A1_C19190502.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Xfcn-PZ254R_1214P/C492435"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1186,7 +1186,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19190502"
+		(property "LCSC" "C492435"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1201,7 +1201,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/c331646c-5b97-4172-85ff-0e21d8399761")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "catt_jtag.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2588,7 +2588,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Wcon-313010SG0BK00T1/C783829"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hanxia-HX_JN1_27_2x5P_ZZ_H49/C42372547"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2612,7 +2612,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C783829"
+		(property "LCSC" "C42372547"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2627,7 +2627,7 @@
 		)
 		(property ki_fp_filters "PinHeader?2x05?P1.27mm*")
 		(path "/338832da-133d-4435-8ef2-2a6e47f155b1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "catt_jtag.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2975,7 +2975,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF2201TCE_C25879.html"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3055,7 +3055,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/45a6b62d-b57b-477d-88e4-c941e91cb2c5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "catt_jtag.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3518,7 +3518,7 @@
 		(layer "Edge.Cuts")
 		(uuid "faaab943-932a-4e0a-9475-517a5e009610")
 	)
-	(gr_text "This side should face to\nthe back of the device"
+	(gr_text "This side should face\nthe back of the device"
 		(at 6.5 0 90)
 		(layer "B.SilkS")
 		(uuid "684d58f6-af95-467e-acdc-73bf38cadf7e")
